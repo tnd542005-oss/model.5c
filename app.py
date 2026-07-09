@@ -28,8 +28,8 @@ from sklearn.model_selection import train_test_split
 # ============================================================
 st.set_page_config(
     layout="wide",
-    page_title="Dự báo Rủi ro Tín dụng - Mô hình 5C",
-    page_icon="🏦",
+    page_title=" Mô hình 5C",
+    page_icon="💕",
 )
 
 # ============================================================
